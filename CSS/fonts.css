@@ -1,0 +1,30 @@
+
+/*Font-family Abel*/
+@font-face{
+    font-family: Abel;
+    src: url('../Font/Abel/Abel-Regular.ttf');
+}
+
+/*Font-family Cormorant_Garamond*/
+@font-face{
+    font-family: Cormorant_Garamond;
+    src: url('../Font/Cormorant_Garamond/CormorantGaramond-Regular.ttf');
+}
+
+/*Font-family livvic*/
+@font-face{
+    font-family: Livvic;
+    src: url('../Font/Livvic/Livvic-Bold.ttf');
+}
+
+/*Font-family roboto*/
+@font-face{
+    font-family: Roboto;
+    src: url('../Font/Roboto/Roboto-Bold.ttf');
+}
+
+/*Font-family sofia_sans*/
+@font-face{
+    font-family: Sofia_Sans;
+    src: url('../Font/Sofia_Sans/static/SofiaSans-Regular.ttf');
+}
